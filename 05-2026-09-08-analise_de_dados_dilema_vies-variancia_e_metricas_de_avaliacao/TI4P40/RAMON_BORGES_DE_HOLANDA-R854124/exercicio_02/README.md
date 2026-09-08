@@ -173,13 +173,15 @@ print("Classe prevista =", classe)
 | Métrica de teste | MSE              | Acurácia               |
 | Inferência final | "Quanto tempo?"  | "Qual classe?"         |
 
-O ponto pedagógico comum aos dois é justamente este:
+LEMBRE-SE:
+
+#### Treino
 
 $$
 \boxed{\text{treino aprende os parâmetros}}
 $$
 
-e depois:
+#### Teste
 
 $$
 \boxed{\text{teste avalia o modelo sem alterar os parâmetros}}
